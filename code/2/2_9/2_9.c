@@ -8,7 +8,7 @@ int main(void)
 
     switch (week)
     {
-        case 1: printf("星期一"); break;
+        case 1: printf("星期一");break;
         case 2: printf("星期二"); break;
         case 3: printf("星期三"); break;
         case 4: printf("星期四");break;
